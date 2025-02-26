@@ -1,12 +1,12 @@
 # Hi there, I'm [Your Name]! 👋
 
 ### 🚀 About Me
-I'm a passionate **Developer** who loves building cool stuff with code. I enjoy working on **Web Development**, **Open Source Projects**, and exploring new technologies. Always learning, always growing!
+I'm a passionate **Software Developer** who loves building cool stuff with code. I enjoy working on **Web Development**, **Open Source Projects**, and exploring new technologies. Always learning, always growing!
 
-- 🌱 **Currently Learning:** [What You're Learning, e.g., React, Machine Learning]
-- 💻 **Tech Stack:** [Your Tech Stack, e.g., JavaScript, Python, Node.js]
-- 📫 **How to Reach Me:** [Your Email or Social Media Links]
-- ⚡ **Fun Fact:** [A Fun Fact About You]
+- 🌱 **Currently Learning:**Machine Learning,MERN stack
+- 💻 **Tech Stack:** JavaScript, Python, Node.js,Express.js,Next.js,Docker
+- 📫 **How to Reach Me:** biniyambiyadge@gmail.com
+- ⚡ **Fun Fact:** I once debugged a program in my dreams and it actually worked when I woke up.
 
 ---
 
@@ -46,9 +46,8 @@ I'm a passionate **Developer** who loves building cool stuff with code. I enjoy 
 
 ### 🔥 Featured Projects
 
-- **[Project 1](https://github.com/yourusername/project1)** - A brief description of your project.
-- **[Project 2](https://github.com/yourusername/project2)** - A brief description of your project.
-- **[Project 3](https://github.com/yourusername/project3)** - A brief description of your project.
+- **[Project 1](https://github.com/Binaa10/gibibooks-App)** - An application for chatting within the campus.
+- **[Project 2](https://github.com/Binaa10/MyPortfolio)** - Personal portfolio.
 
 ---
 
@@ -61,4 +60,4 @@ I'm a passionate **Developer** who loves building cool stuff with code. I enjoy 
 
 ---
 
-⭐️ From [Your Name](https://github.com/yourusername)
+⭐️ From [Biniyam](https://github.com/Binaa10/)
