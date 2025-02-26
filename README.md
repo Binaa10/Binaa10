@@ -1,9 +1,9 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Biniyam ! 👋
 
 ### 🚀 About Me
 I'm a passionate **Software Developer** who loves building cool stuff with code. I enjoy working on **Web Development**, **Open Source Projects**, and exploring new technologies. Always learning, always growing!
 
-- 🌱 **Currently Learning:**Machine Learning,MERN stack
+- 🌱 **Currently Learning:** Machine Learning,MERN stack
 - 💻 **Tech Stack:** JavaScript, Python, Node.js,Express.js,Next.js,Docker
 - 📫 **How to Reach Me:** biniyambiyadge@gmail.com
 - ⚡ **Fun Fact:** I once debugged a program in my dreams and it actually worked when I woke up.
