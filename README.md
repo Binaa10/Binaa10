@@ -47,7 +47,7 @@ I'm a passionate **Software Developer** who loves building cool stuff with code.
 ### 🔥 Featured Projects
 
 - **[Project 1](https://github.com/Binaa10/gibibooks-App)** - An application for chatting within the campus.
-- **[Project 2](https://github.com/Binaa10/MyPortfolio)** - Personal portfolio.
+- **[Project 2](https://github.com/Binaa10/MyPortfolio)** - Personal portfolio. 
 
 ---
 
