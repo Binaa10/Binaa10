@@ -1,103 +1,70 @@
-<!-- Animated greeting -->
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="60" viewBox="0 0 600 60">
-  <style>
-    .text { font: 700 32px/1.2 "Segoe UI", Roboto, system-ui, sans-serif; fill: #0f172a; }
-    .cursor { fill: #0f172a; }
-  </style>
-  <text x="0" y="40" class="text">
-    <tspan opacity="0">H<animate attributeName="opacity" from="0" to="1" begin="0s" dur="0.05s" fill="freeze"/></tspan>
-    <tspan opacity="0">i<animate attributeName="opacity" from="0" to="1" begin="0.08s" dur="0.05s" fill="freeze"/></tspan>
-    <tspan> </tspan>
-    <tspan opacity="0">t<animate attributeName="opacity" from="0" to="1" begin="0.16s" dur="0.05s" fill="freeze"/></tspan>
-    <tspan opacity="0">h<animate attributeName="opacity" from="0" to="1" begin="0.24s" dur="0.05s" fill="freeze"/></tspan>
-    <tspan opacity="0">e<animate attributeName="opacity" from="0" to="1" begin="0.32s" dur="0.05s" fill="freeze"/></tspan>
-    <tspan opacity="0">r<animate attributeName="opacity" from="0" to="1" begin="0.40s" dur="0.05s" fill="freeze"/></tspan>
-    <tspan opacity="0">e<animate attributeName="opacity" from="0" to="1" begin="0.48s" dur="0.05s" fill="freeze"/></tspan>
-    <tspan> , </tspan>
-    <tspan opacity="0">I<animate attributeName="opacity" from="0" to="1" begin="0.56s" dur="0.05s" fill="freeze"/></tspan>
-    <tspan opacity="0">'<animate attributeName="opacity" from="0" to="1" begin="0.64s" dur="0.05s" fill="freeze"/></tspan>
-    <tspan opacity="0">m<animate attributeName="opacity" from="0" to="1" begin="0.72s" dur="0.05s" fill="freeze"/></tspan>
-    <tspan> </tspan>
-    <tspan opacity="0">B<animate attributeName="opacity" from="0" to="1" begin="0.80s" dur="0.05s" fill="freeze"/></tspan>
-    <tspan opacity="0">i<animate attributeName="opacity" from="0" to="1" begin="0.88s" dur="0.05s" fill="freeze"/></tspan>
-    <tspan opacity="0">n<animate attributeName="opacity" from="0" to="1" begin="0.96s" dur="0.05s" fill="freeze"/></tspan>
-    <tspan opacity="0">i<animate attributeName="opacity" from="0" to="1" begin="1.04s" dur="0.05s" fill="freeze"/></tspan>
-    <tspan opacity="0">y<animate attributeName="opacity" from="0" to="1" begin="1.12s" dur="0.05s" fill="freeze"/></tspan>
-    <tspan opacity="0">a<animate attributeName="opacity" from="0" to="1" begin="1.20s" dur="0.05s" fill="freeze"/></tspan>
-    <tspan opacity="0">m<animate attributeName="opacity" from="0" to="1" begin="1.28s" dur="0.05s" fill="freeze"/></tspan>
-    <tspan> # Hi there, I'm Biniyam ! 👋</tspan>
-  </text>
-  <!-- blinking cursor -->
-  <rect x="285" y="15" width="6" height="30" class="cursor">
-    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
-  </rect>
-</svg>
+<!-- ✨ Animated Greeting -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Biniyam+👋)](https://git.io/typing-svg)
 
+---
 
 ### 🚀 About Me
-I'm a passionate **Software Developer** who loves building cool stuff with code. I enjoy working on **Web Development**, **Open Source Projects**, and exploring new technologies. Always learning, always growing!
+I’m a passionate **Software Developer** who loves turning ideas into reality.  
+My focus areas are **Web Development**, **Open Source Projects**, and continuous learning.
 
-- 🌱 **Currently Learning:** Machine Learning,MERN stack
-- 💻 **Tech Stack:** JavaScript, Python, Node.js,Express.js,Next.js,Docker
-- 📫 **How to Reach Me:** biniyambiyadge@gmail.com
-- ⚡ **Fun Fact:** I once debugged a program in my dreams and it actually worked when I woke up.
+- 🌱 **Currently Learning:** Machine Learning, **MERN** stack  
+- 💻 **Core Stack:** JavaScript · Python · Node.js · Express.js · Next.js · Docker  
+- 📧 **Reach Me:** [biniyambiyadge@gmail.com](mailto:biniyambiyadge@gmail.com)  
+- ⚡ **Fun Fact:** Once debugged a program *in a dream*—and the fix worked the next morning.
 
 ---
 
 ### 🛠️ Tech Stack
- 
-#### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+#### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
 
 #### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge)
 
 #### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
 
 ---
 
 ### 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Biniyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Binaa10&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Binaa10&layout=compact&theme=radical)
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 Achievements
 
-![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Binaa10&theme=radical&margin-w=15)
 
 ---
 
 ### 🔥 Featured Projects
 
-- **[Project 1](https://github.com/Binaa10/gibibooks-App)** - An application for chatting within the campus.
-- **[Project 2](https://github.com/Binaa10/MyPortfolio)** - Personal portfolio. 
+| Project | Description | Tech Stack |
+|--------|------------|------------|
+| **[Gibibooks App](https://github.com/Binaa10/gibibooks-App)** | A real-time campus chat application allowing students to communicate instantly across different groups and topics. | React · Node.js · Express · Socket.IO |
+| **[My Portfolio](https://github.com/Binaa10/MyPortfolio)** | Personal portfolio site showcasing projects, skills, and contact information with a modern responsive design. | Next.js · Tailwind CSS |
+| **Another Cool Project** *(example)* | *(Optional) Add more projects here as you build them — each with a one-line pitch.* | Add your tech |
+
+> 🗒 **Tip:** Add screenshots or demo links in the GitHub project READMEs for extra professionalism.
 
 ---
 
-### 🌐 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourhandle)
-[![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/yourhandle)
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/yourprofile/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/yourhandle)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge)](https://medium.com/@yourhandle)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=dev.to&logoColor=white&style=for-the-badge)](https://dev.to/yourhandle)
 
 ---
 
-⭐️ From [Biniyam](https://github.com/Binaa10/)
-
-
-
-
-
+⭐️ **From [Biniyam](https://github.com/Binaa10)**
