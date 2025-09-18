@@ -1,4 +1,38 @@
-# Hi there, I'm Biniyam ! 👋
+<!-- Animated greeting -->
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="60" viewBox="0 0 600 60">
+  <style>
+    .text { font: 700 32px/1.2 "Segoe UI", Roboto, system-ui, sans-serif; fill: #0f172a; }
+    .cursor { fill: #0f172a; }
+  </style>
+  <text x="0" y="40" class="text">
+    <tspan opacity="0">H<animate attributeName="opacity" from="0" to="1" begin="0s" dur="0.05s" fill="freeze"/></tspan>
+    <tspan opacity="0">i<animate attributeName="opacity" from="0" to="1" begin="0.08s" dur="0.05s" fill="freeze"/></tspan>
+    <tspan> </tspan>
+    <tspan opacity="0">t<animate attributeName="opacity" from="0" to="1" begin="0.16s" dur="0.05s" fill="freeze"/></tspan>
+    <tspan opacity="0">h<animate attributeName="opacity" from="0" to="1" begin="0.24s" dur="0.05s" fill="freeze"/></tspan>
+    <tspan opacity="0">e<animate attributeName="opacity" from="0" to="1" begin="0.32s" dur="0.05s" fill="freeze"/></tspan>
+    <tspan opacity="0">r<animate attributeName="opacity" from="0" to="1" begin="0.40s" dur="0.05s" fill="freeze"/></tspan>
+    <tspan opacity="0">e<animate attributeName="opacity" from="0" to="1" begin="0.48s" dur="0.05s" fill="freeze"/></tspan>
+    <tspan> , </tspan>
+    <tspan opacity="0">I<animate attributeName="opacity" from="0" to="1" begin="0.56s" dur="0.05s" fill="freeze"/></tspan>
+    <tspan opacity="0">'<animate attributeName="opacity" from="0" to="1" begin="0.64s" dur="0.05s" fill="freeze"/></tspan>
+    <tspan opacity="0">m<animate attributeName="opacity" from="0" to="1" begin="0.72s" dur="0.05s" fill="freeze"/></tspan>
+    <tspan> </tspan>
+    <tspan opacity="0">B<animate attributeName="opacity" from="0" to="1" begin="0.80s" dur="0.05s" fill="freeze"/></tspan>
+    <tspan opacity="0">i<animate attributeName="opacity" from="0" to="1" begin="0.88s" dur="0.05s" fill="freeze"/></tspan>
+    <tspan opacity="0">n<animate attributeName="opacity" from="0" to="1" begin="0.96s" dur="0.05s" fill="freeze"/></tspan>
+    <tspan opacity="0">i<animate attributeName="opacity" from="0" to="1" begin="1.04s" dur="0.05s" fill="freeze"/></tspan>
+    <tspan opacity="0">y<animate attributeName="opacity" from="0" to="1" begin="1.12s" dur="0.05s" fill="freeze"/></tspan>
+    <tspan opacity="0">a<animate attributeName="opacity" from="0" to="1" begin="1.20s" dur="0.05s" fill="freeze"/></tspan>
+    <tspan opacity="0">m<animate attributeName="opacity" from="0" to="1" begin="1.28s" dur="0.05s" fill="freeze"/></tspan>
+    <tspan> # Hi there, I'm Biniyam ! 👋</tspan>
+  </text>
+  <!-- blinking cursor -->
+  <rect x="285" y="15" width="6" height="30" class="cursor">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
+
 
 ### 🚀 About Me
 I'm a passionate **Software Developer** who loves building cool stuff with code. I enjoy working on **Web Development**, **Open Source Projects**, and exploring new technologies. Always learning, always growing!
