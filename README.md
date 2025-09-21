@@ -2,7 +2,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hi+there,+I'm+Biniyam+👋)](https://git.io/typing-svg)
 
 
-
 ---
  
 ## 🚀 About Me
