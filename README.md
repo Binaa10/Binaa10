@@ -62,6 +62,7 @@ My focus areas: **Web Development**, **Open Source Projects**, and continuous le
 | **My Portfolio** | Personal portfolio showcasing projects, skills, and contact info. | Next.js · TypeScript · Tailwind CSS | ![Live](https://img.shields.io/badge/Live-brightgreen) | [Website](https://biniyam-portfolio-website.vercel.app/) |
 | **BiniosEstate** | Full-featured real estate platform with property listings and map search. | MERN Stack · Tailwind CSS | ![Live](https://img.shields.io/badge/Live-brightgreen) | [Website](https://mern-estate-wpg9.onrender.com/) |
 | **CMS** | Role-based complaint management system with responsive UI. | MERN Stack · Tailwind CSS | ![In Development](https://img.shields.io/badge/In%20Development-lightgrey) | [GitHub](https://github.com/Binaa10/CMS) |
+| **Digital Food Menu** | Multi-language menu interface with dietary filtering. | MERN Stack · Tailwind CSS |  ![Live](https://img.shields.io/badge/Live-brightgreen) |[Website](https://biniyam-portfolio-website.vercel.app/) |
 
 
 
