@@ -72,7 +72,7 @@ My focus areas: **Web Development**, **Open Source Projects**, and continuous le
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/yourprofile/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://x.com/abuabu5929)
 [![Telegram](https://img.shields.io/badge/Telegram-0088cc?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/yourhandle)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/yourphonenumber)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/+251993592990)
 
 ---
 
