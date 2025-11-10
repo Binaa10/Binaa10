@@ -8,7 +8,7 @@
 I’m a passionate **Software Developer** who loves turning ideas into reality.  
 My focus areas: **Web Development**, **Open Source Projects**, and continuous learning.
 
-- 🌱 **Currently Learning:** Machine Learning, **MERN Stack**  
+- 🌱 **Currently Learning:** Machine Learning, No code AI building ,**MERN Stack**  
 - 💻 **Core Stack:** JavaScript · TypeScript · Python · Node.js · Express.js · Next.js · Docker  
 - 📧 **Reach Me:** [biniyambiyadge@gmail.com](mailto:biniyambiyadge@gmail.com)  
 - ⚡ **Fun Fact:** Once debugged a program *in a dream*—and the fix worked the next morning.  
